@@ -1,15 +1,17 @@
-# Sobre
-Olá, me chamo Kaluã Bentes, e sou Frontend Developer de <b>Manaus, Brazil</b>
-<h3>Tecnologias</h3>
-<p>
-  <img alt="Tecnologias" width="100%" src="https://kaluabentes.vercel.app/tech.png" />
-</p>
+# Interstellar UI
 
-# Site pessoal
+Interstellar UI is a React UI components library for shipping new features faster.
 
-* [Personal Website](https://kaluabentes.vercel.app)
+## Development
 
-# Contato
+1. Instale as dependências
 
-<p><a href="https://www.linkedin.com/in/kalua-bentes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+`yarn`
+
+2. Rode o Storybook
+
+`yarn storybook`
+
+3. Para testes rode o Jest
+
+`yarn test`
